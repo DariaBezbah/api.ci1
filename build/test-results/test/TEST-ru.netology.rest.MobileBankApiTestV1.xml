@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiTestV1" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-08-21T20:08:54" hostname="WIN-C7D0B5K1H3P" time="1.573">
+<testsuite name="ru.netology.rest.MobileBankApiTestV1" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-08-21T20:29:09" hostname="WIN-C7D0B5K1H3P" time="1.717">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV1" time="1.573">
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV1" time="1.717">
     <failure message="java.lang.AssertionError: 1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
 Expected status code &lt;201&gt; but was &lt;200&gt;.
 
